@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/dashboard/PagesSidebar/Job.js"],"names":["Job"],"mappings":"oJAAA,uBAOeA,UALH,WACZ,OACI","file":"static/js/64.5a8710a2.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Job = () => {\r\nreturn (\r\n    <h1></h1>\r\n)\r\n}\r\nexport default Job"],"sourceRoot":""}

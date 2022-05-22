@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/dashboard/PagesSidebar/Report.js"],"names":["Report"],"mappings":"oJAAA,uBAOeA,UALA,WACf,OACI","file":"static/js/65.19936c8b.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Report = () => {\r\nreturn (\r\n    <h1></h1>\r\n)\r\n}\r\nexport default Report"],"sourceRoot":""}
